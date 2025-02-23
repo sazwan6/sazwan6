@@ -3,9 +3,6 @@
 #EXTM3U x-tvg-url="https://aqfadtv.xyz/epg" refresh="1440" max-conn="4" refresh="24" billed-msg="Refresh Done 2 | All of the temporary channels are now available to watch. Thank you for your patience." vod_library="https://mantop.worst.workers.dev/index.html , https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/vod,https://vod.pondan.workers.dev/dewanonton.json,https://hangit69.blogspot.com/p/aotg-movie.html,https://hangit69.blogspot.com/p/movie-request-vod.html"
 
 
-#EXTINF:-1 group-title="ORDER ID👉SHOPEE NeckleNJ " group-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg" tvg-id="NeckleNJ" ch-number="100" tvg-name="NeckleNJ" tvg-logo="https://i.ibb.co/1fKjK3kB/SHOPEE-1.jpg", ID ORIGINAL KEDAI SHOPEE NeckleNJ
-https://youtu.be/D2rRj74cG00
-
 
 ##############3 beradik [maaf server tak stabil] #################################
 
